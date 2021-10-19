@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NTCVN
-- 🌱 Tôi hiện đang học Trường CDN Bách Khoa Hà  Nội 
-- 💞️ Tôi muốn cộng tác trên trường 
+- 🌱 Tôi hiện đang học Trường CDN Bách Khoa Hà  Nội
 - 📫 Làm thế nào để liên hệ với tôi fb: https://www.facebook.com/22.10.2001.NTC
 
 <!---
